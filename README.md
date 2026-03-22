@@ -17,13 +17,19 @@ O usuário informa:
 O programa calcula o consumo mensal em **kWh**.
 
 ## 📐 Fórmula utilizada
-
+consumoMensal = (potencia * horasDia * 30) / 1000
 ## ▶️ Como executar
 
 Abra o terminal e execute:
-
+python app.py
 
 ## 🎯 Exemplo
 
 Aparelho: Geladeira  
 Consumo estimado: 45 kWh/mês
+
+---
+
+## 👩‍💻 Autora
+
+Projeto desenvolvido por **Ellen da Silva Costa Ferreira**
